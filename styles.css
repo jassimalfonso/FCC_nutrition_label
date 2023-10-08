@@ -8,6 +8,8 @@
   
   body {
 	font-family: 'Open Sans', sans-serif;
+	height: 100vh;
+	margin: 0 auto;
   }
   
   .label {
